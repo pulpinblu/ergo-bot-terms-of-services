@@ -1,1 +1,1 @@
-# ergo-bot-terms-of-services
+# ergo-bot
